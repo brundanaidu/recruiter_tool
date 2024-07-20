@@ -1,0 +1,113 @@
+{% extends 'base_after.html' %}
+{% block content %}
+
+
+  <div class="container ms-1" style="margin-bottom:20px;">
+      <div class="row g-0 d-flex flex-row">
+
+        <div class="col-11 border border-2 border-light-subtle" style="border-radius:5px; margin-top:30px; margin-right:20px; margin-left:10px">
+              <div class="card-header">&nbsp;&nbsp;&nbsp;&nbsp;<i class="fa-solid fa-list" style="color:greenyellow;"></i>&nbsp;&nbsp;DEPARTMENTS </div><hr>
+            <form method="post" action="{% url 'csv_info' %}" >
+                {% csrf_token %}
+                <div  class="row row-cols-12 row-cols-lg-3 g-2 g-lp-3 " style=" padding-left: 40px; padding-bottom: 20px;">
+                 <div class="col" >
+                    <input  type="submit"  name="dep" style="width:100px;" class="btn btn-primary" value="CAE">
+                </div>
+                <div class="col">
+                    <input  type="submit"  name="dep" style="width:100px;" class="btn btn-primary" value="MBSC">
+                </div>
+
+                <div class="col">
+                     <input  type="submit"  name="dep" style="width:100px;" class="btn btn-primary" value="CAE">
+                </div>
+
+                <div class="col">
+                     <input  type="submit"  name="dep" style="width:100px;" class="btn btn-primary" value="CAE">
+                </div>
+
+                <div class="col">
+                     <input  type="submit"  name="dep" style="width:100px;" class="btn btn-primary" value="CAE">
+                </div>
+
+                <div class="col">
+                     <input  type="submit"  name="dep" style="width:100px;" class="btn btn-primary" value="CAE">
+                </div>
+             </div>
+
+            </form>
+
+
+
+
+                </div>
+
+
+
+
+
+      </div>
+
+      <div class="card mt-3 ms-2" style="width:60rem;">
+
+                <div class="card-header">
+
+                     <span class="navbar-brand mb-0 h4"><i class="fa-sharp fa-solid fa-list-check" style="color: #19191a;"></i>Manage Category</span>
+                </div>
+                    <form style="margin-top: 20px; margin-left:50px;margin-right:58px">
+
+                          Show<select aria-label="Default select example">
+                                    <option>10</option>
+                                    <option value="1">20</option>
+                                    <option value="2">30</option>
+                                    <option value="3">40</option>
+                          </select>Entries
+                          <div class="float-end">
+                           <label for="search">Search:</label>
+                           <span><input type="search" name="query"></span>
+                          </div>
+                        </form>
+                <!-- <div class="card-body card ms-3 me-3" style="margin-top:60px;"> -->
+                  <div class="container">
+                    <div class="row col-md-11">
+
+
+                          <table class="table table-striped table-bordered" style="margin-left:50px;margin-top:15px;">
+                                <thead>
+                                    <tr>
+                                        {% for header in headers %}
+                                            <th>{{ header }}</th>
+                                        {% endfor %}
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    {% for row in data %}
+                                        <tr>
+                                            {% for item in row %}
+                                                <td>{{ item }}</td>
+                                            {% endfor %}
+                                        </tr>
+                                    {% endfor %}
+                                </tbody>
+                          </table>
+                        </div>
+
+                  </div>
+
+
+
+
+
+
+                <!-- </div>  -->
+      </div>
+
+
+  </div>
+
+
+
+{% endblock %}
+
+
+
+

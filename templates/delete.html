@@ -1,0 +1,15 @@
+
+
+{% extends 'base.html' %}
+
+{% block content %}
+<body>
+    <h1>Are you sure you want to delete this job description?</h1>
+    <p>{{ description.job_title }} - {{ description.description }}</p>
+    <form method="post">
+        {% csrf_token %}
+        <button type="submit">Yes, delete</button>
+        <a href="{% url 'addjd' %}">No, go back</a>
+    </form>
+
+{% endblock %}

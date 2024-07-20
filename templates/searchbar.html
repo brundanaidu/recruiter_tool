@@ -1,0 +1,26 @@
+{% extends 'base.html'%}
+
+{% block content %}
+<h4 align="center" >Search Results </h4>
+<div class="container">
+     <div class="row justify-content-center m-4">
+         {% if descriptions %}
+         {% for product in descriptions %}
+         <div class="col-md-4">
+             <div class="card m-2" style="width: 18rem;">
+                 <div class="card-body">
+                     <h5 class="card-title">{{ product.job_title}}</h5>
+                     <p class="card-text">{{ product.description}}</p>
+                     <p class="card-text mt-1">{{ product.id}}</p>
+                 </div>
+             </div>
+         </div>
+         {% endfor %}
+         {% else %}
+         <p>.....Sorry, There is no Products....</p>
+         {% endif %}
+     </div>
+
+</div>
+
+{% endblock %}

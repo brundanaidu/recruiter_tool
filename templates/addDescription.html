@@ -1,0 +1,55 @@
+{% extends 'base.html' %}
+<!-- website\templates\base.html -->
+{% block title %}Login{% endblock %} {% block css %}
+<style>
+  .col-4 {
+    border: 1px solid gray;
+    background-color: white;
+    border-radius: 6px;
+    padding: 30px;
+    box-shadow: 3px 3px 5px gray;
+  }
+</style>
+{% endblock %} {% block content %}<!-- contect block from base.html -->
+<div class="container-fluid">
+  <div class="container" style="margin-left:150px; ">
+    <div class="row pt-5">
+      <div class="col-4 mt-5 offset-3">
+        <form method="post" action="{% url 'addjd' %}">
+          {% csrf_token %}
+          <div class="mb-3 text-center">
+            {% if messages %} {% for message in messages %}
+            <div class="alert alert-warning alert-dismissible fade show" role="alert">
+              {{ message}}
+              <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+            </div>
+            {% endfor %} {% endif %}
+            <h4>Add Description</h4>
+          </div>
+          <div class="mb-3">
+            <label for="" class="form-label">job id</label>
+            <input type="number" name="id" class="form-control" />
+          </div>
+          <div class="mb-3">
+            <label for="" class="form-label">description</label>
+            <textarea  name="description" class="form-control" rows="3" ></textarea>
+          </div>
+          <div class="mb-3">
+            <label for="" class="form-label">department</label>
+            <select name="title" class="form-select" aria-label="Default select example">
+              <option value="CSE" >CSE</option>
+              <option value="MBSE">MBSE</option>
+              <option value="IT">IT</option>
+            </select>
+          </div>
+          <div class="mb-3">
+            <div class="d-grid">
+              <button type="submit" class="btn btn-primary">add</button>
+            </div>
+          </div>
+        </form>
+      </div>
+    </div>
+  </div>
+</div>
+{% endblock %}

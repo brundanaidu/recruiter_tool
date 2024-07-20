@@ -1,0 +1,55 @@
+{% extends 'base.html' %}
+{% block title %} register {% endblock %}
+{% block css %}
+<style>
+  .col-4 {
+    border: 1px solid gray;
+    background-color: white;
+    border-radius: 6px;
+    padding: 30px;
+    box-shadow: 3px 3px 5px gray;
+  }
+</style>
+{% endblock %}
+{% block content %}
+<div class="container-fluid">
+        <div class="container" style="margin-left:150px;">
+            <div class="row pt-5">
+                <div class="col-4 mt-5 offset-3">
+                    <form method="post" action="{% url 'register' %}">
+                        {% csrf_token %}
+                        <div class="md-3 text-center">
+                            {% if messages %}{% for message in messages %}
+                            <div class="alert alert-warning alert-dismissible fade show" role="alert">{{message}}
+                            <button type="button" class="btn-close" aria-label="close" data-bs-dismiss="alert"></button>
+                            </div>
+                            {% endfor %} {% endif %}
+                            <h4>Register</h4>
+                        </div>
+                        <div class="mb-3">
+                            <label class="form-label">email</label>
+                            <input type="email" class="form-control" name='email'>
+                        </div>
+                        <div class="mb-3">
+                            <label class="form-label">name</label>
+                            <input type="text" class="form-control" name='name'>
+                        </div>
+                        <div class="mb-3">
+                            <label class="form-label">password1</label>
+                            <input type="password" class="form-control" name='password1'>
+                        </div>
+                        <div class="mb-3">
+                            <label class="form-label">password2</label>
+                            <input type="password" class="form-control" name='password2'>
+                        </div>
+                        <div class="mb-3">
+                          <div class="d-grid" >
+                            <button type="submit" class="btn btn-success">submit</button>
+                          </div>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+</div>
+{% endblock %}

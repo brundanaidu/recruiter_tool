@@ -1,0 +1,150 @@
+Hello,
+
+ 
+
+Job Description & profiles for SMRT.
+
+ 
+
+1.1 Scope Inclusions – Collaboration with Purchasing on Sourcing / Resourcing
+
+1.1.1 Resourcing Workflow Management (RWM): 
+
+Get Green & Brown field suppliers from GCST for the resourcing action.
+Engage with suppliers to establish and onboard suppliers for MP&L systems and process.
+Visit to supplier site as required.
+Attend weekly meetings conducted by Purchase and highlight any issues and seek support if required.
+Trigger Resourcing check list in SuperG (similar to the Launch Readiness Checklist in Super G).
+Follow-up with suppliers to complete the check list assessment and validate.
+Provide input to Purchase during sourcing and highlight critical suppliers (Prod loss / prem. Freight / 6MWA<81)
+Update and Track Master file with issues, action plan and closing status.
+ 
+
+1.1.2 Sourcing:
+
+Get the suppliers list from purchase during PS/PSC milestone for the program.
+Review the list and identify suppliers are new or carry over.
+Assess carry over supplier performance. 
+Prepare and share one pager for the critical suppliers and highlight risk for sourcing in the area of Delivery, Prem. Freight, Prod. Loss, Contribution margin, Q1 & Stability claims.
+Recommend source change based on the identified issues and risk to the production through MP&L Leadership.
+ 
+
+1.1.3 – Key Performance Indicators
+
+CSM: Turn Supplier status into Green for the MP&L issues.
+RIB: Turn Green on or before resourcing supplier implementation date
+Sourcing: Influence and change min. 1% of total carry over suppliers for the program
+ 
+
+1.2 Scope Inclusions – Launch Readiness Review (LRR)
+
+Trigger LRR through SuperG online / SuperG communication based on the below defined category on weekly (Monday) basis.
+Onsite New Suppliers – SuperG online
+Desktop New Tool / Part – SuperG communication (Update Ford contacts manually)
+Conduct LRR training to the targeted suppliers on weekly basis.
+Schedule meeting with Suppliers to review the self-assessment status.
+Create SharePoint folder for each supplier to update evidence documents.
+Review all the key questionnaire and related evidence with suppliers.
+Identify gaps, action plan and target date for the open items (Yellow / Red)
+Visit supplier site to review critical open items.
+Update Health chart report for each program (Yellow & Red) and highlight issues & support required throughout the week (Mon to Thu)
+Update Health chart with Improvement Road Map for C/o supplier with 6MWA<81
+Review Health Chart with Supervisor for each program on weekly basis
+Continue to work with suppliers to close all Open issues (Yellow / Red) on or before MP2 milestone.
+Escalate to CFT & Leadership if need any support during various meetings.
+Document and communicate the supply chain pain points gathered during the DCV build so that launch readiness review for critical suppliers could be strategized during the pre-builds.
+Collaborate with N-Tier team within MP&L to ensure multi-tier supplier readiness for all scales of programs.
+Conduct supplier surveys for new model programs, plant capacity uplifts and shift additions to ensure supply chain issues are caught upfront and communicated with cross functional teams for resolution.
+Track and report part supportability issues for functionally rejected / design aim parts impacting MP2 start and ramp up.
+ 
+
+1.2.1 – Key Performance Indicators
+
+Trigger LRR assessment to all suppliers on or before 3 months to TT
+Complete LRR evidence review by 30days prior to MP1 and identify Open issues (Yellow & Red)
+LRR status 100% Green by MP2
+Job 1 Engineering Implementation (WERS Concerns) supplier supportability confirmation for MP2 and beyond.
+Non-Phase 3 PPAP Supplier Supportability confirmation for ramp up acceleration curve collaborating with CFT (STA/Purchasing/CST)
+ 
+
+1.3 Scope Inclusions – Critical Supplier Management (CSM)
+
+Identify Critical suppliers by using below inputs / reports,
+Production Alert Notification sent by PLM.
+Production Loss caused by suppliers in an immediate month.
+Executive summary sent by PLM.
+Visit to supplier site to identify issues, root cause, action plan and date to green. 
+Physical validation of the action plan and follow-up with suppliers until get closed.
+Track and monitor delivery rating score for next 8 weeks and handover to SDPR once supplier improved month score >81.
+Escalate and seek support from the CFT for any gating issues.
+Represent DPP meeting while onsite.             
+Prepare one pager summary report and circulate to MP&L leadership.
+Update and track status in SuperG under supplier information
+1.3.1 – Key Performance Indicators
+
+Onsite assessment report with roadmap and Date to Green
+Ensure production continuity collaborating with CFT (STA/PUR/CST)
+ 
+
+ 
+
+1.4 Scope Inclusions – SDPR (Supplier Delivery Performance Rating) Improvements
+
+Identify & prioritize low Delivery Performance suppliers and define Critical / Non-Critical based on the below,
+Download list of suppliers 6MWA<81 from Super G
+Get input from Plant MP&L for the critical or pain point suppliers.
+Analyze DPR (Daily Production Report) for repetitive production loss made by suppliers.
+Understand trouble some suppliers from Proto team where supplier not performing during DCV builds (Proto Builds)
+Get input from CST (Critical Supplier Team) for list of suppliers critical to the plant operations.
+Analyze high hurt premium freight suppliers.
+Conduct Detailed Training to suppliers on Delivery Rating elements (Quarterly)
+Schedule a meeting with suppliers & include STA/PUR if required to detail out root cause, action plan and target date for each poor delivery elements.
+Work with suppliers until all action items closed and 6MWA improved >81.
+Work with FNA SMRT team and seek onsite visit to supplier plant for validating the action plan.
+Escalate to STA/PUR during weekly Governance meeting to seek support for Non Q1 suppliers.
+Work closely with CST members to avoid any duplication of working with same suppliers for same issues.
+Analyze the action plan and timing to recommend Override or Revoke Q1 of suppliers.
+Update and Track supplier monthly delivery performance in the master tracker and report out monthly KPI status to management / leadership.
+1.4.1 – Key Performance Indicators
+
+No: of Suppliers to be improved 6MWA >= 81 – 100/yr.
+ 
+
+Supplier Premium Freight Improvement by 10% compared to premium for prior year.
+ 
+
+10% reduction in Contribution Margin impact driven by production loss.
+ 
+
+1.5 Scope Inclusions – MMOG Endorsement
+
+Set target sites for endorsement every year Q4 along with STA organization and based on upcoming launches.
+Establish high level timing plan to meet the target with each process milestone.
+Arrange and conduct training for suppliers on MMOG and Delivery rating modules.
+Perform MMOG endorsement as per the step-by-step process laid by Ford SMRT and meet the given target for every year.
+Work with SMRT team in strengthening
+
+ 
+
+ 
+
+ 
+
+THANKS & REGARDS,
+
+SB Vignesh
+
+HR Executive (Recruitment)
+
+SACHA Engineering.
+
+We. Add. Value.
+
+Cell- 9003330704
+
+www.sacha.engineering
+
+ 
+
+Disclaimer
+This e-mail contains confidential and/or legally protected information. If you have received this e-mail by mistake from SACHA, please inform the sender immediately and destroy this e-mail. Any unauthorized copying, as well as any unauthorized transmission of information in whole or in part of this e-mail is strictly forbidden. Due to the fact that e-mails, which are sent via the internet, can be manipulated or created by an invalid name, any e-mail sent by us is in principle not a legally binding declaration of intent.

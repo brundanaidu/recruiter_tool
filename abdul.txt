@@ -1,0 +1,13 @@
+Position Description:
+• This role is for experienced Data Engineer that will be responsible for designing and building the foundational components required for our customer. This includes bringing disparate sources into our Data Factory and creating data products that will be used by the analytics and reporting teams. • Data engineers will work in small, cross-functional teams. They will collaborate directly and continuously with product managers, designers, and product owners to release early and often. • Work with data scientists and software engineers to support data acquisition activities, data solution ideation, and implementation • Work with technical and business leads to transfer global business requirements into sound solutions and implementation • Share support responsibilities for implemented components
+Skills Required:
+• Minimum of 8+ years’ experience working in Data Engineering, primarily on GCP skill sets. • Hands on experience developing Data engineering pipelines using Workflows • Experience in troubleshooting performance issues • Minimum of 3+ years of experience working in Data engineering, Big data platform and technologies including Hadoop, Hive, Sqoop, Spark, Kafka, Big Query, Terraform, Tekton, Astro, Astonomer, Data Flow, Data Proc, Data Fusion, etc., • Design data pipelines and data robots, take a vision and bring it to life • Master data engineer; teaches others; works closely with IT architects • Experience programming in Java and Python is a plus • Experience using Alteryx and data visualization tools especially Qlikview is a plus • Experience working in Agile/XP • Strong analytical and problem-solving skills • Strong oral and written communication skills
+Skills Preferred:
+• Data Manipulation - GCP (Big Query, Cloud Storage, Data Proc, etc.), Terraform, Airflow
+Experience Required:
+• REQUIREMENTS MANAGEMENT: Identify, document, communicate and design per requirements. • DESIGN: Work with Data Product Owners to design data stores. • IMPLEMENT DATA STORES: Implement data stores on GCP, using DBT for transformations, BigQuery for data store and Astronomer for overall orchestration. • TEST: Participate in testing and adopt test driven development. • TUNE: Tune data stores (indexes, SQL queries) to improve performance. • L2 SUPPORT: Assist with customer inquiries and incidents/problems. • COLLABORATE: Work within/across teams.
+
+
+
+
+

@@ -460,19 +460,23 @@ def matcher_view(request):
     page_obj = paginator.get_page(page_number)
     if request.method == 'POST':
         job_id = request.POST.get('job_id')
+
         job_id=Jd1.objects.get(job_id=job_id)
+        print("=============", job_id)
         job_description = get_object_or_404(Jd1, job_id=job_id)
         jd= job_description.description
-        print(jd)
+        print("=============", jd)
         jd1=resume_process(jd)
+
         resume = request.FILES.get('resume')
-        print("++++++++++++============",resume)
-
         resume_content= resume_process(resume)
+        print("===========+++++++++++",jd1)
         if jd1 and resume_content:
-
+            print("++++++++++++++++++++++++++++++++")
             mp = compute_similarity_sbert(jd1, resume_content)
             matching_percentage = round(mp,2)
+            print("++++++++++++============",matching_percentage)
+            
         user = Match_per(job_id=job_id, resume=resume, mp=matching_percentage)
         p.update(jd=jd,resume=resume,matching_percentage= matching_percentage)
         if user:

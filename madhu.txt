@@ -1,0 +1,10 @@
+Knowledge of Core Java, Python.
+Understanding of SDLC and Software testing concepts
+Basic RDBMS concepts and data querying skills. (Added advantage)
+The Candidate needs to be able to work with Automation tasks as well as Manual QA tasks.
+Designing test scenarios and test cases manually
+Strong knowledge of Object-Oriented Programming concepts and should be able to apply them in test automation script development.
+Troubleshooting issues, debugging test cases, and fixing errors
+Executing/running tests, analyzing test results and test reporting
+Defect reporting and tracking using any defect management tool
+Good communication (written & verbal)

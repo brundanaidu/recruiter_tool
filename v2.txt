@@ -1,0 +1,24 @@
+Position Description:
+
+
+> Creating manual Purchase Requestion (PR) or process auto PR in the S4 Hana system.
+> Get the details for other systems like WERS,GCP & WIPS (as applicable)
+> Entering the required details in the PR.
+> Building the PRs in the S4 Hana and send this to Ariba system for supplier RFP submission.
+> Create the sourcing request in Ariba.
+> Create the sourcing project in Ariba.
+> Enter the necessary details in Ariba and complete the sourcing project event.
+> Check the summary and publish the RFP to the supplier.
+> Generate the reports in S4/ Ariba systems.
+> Make the excel tracking file for RFP event completed.
+> Monitor the incoming PR and Work on incoming tickets without delay, progress to resolution in line with SLA
+> Bear in mind to always treat customers (Other Cross functional team) like family, make their S4 Hana/ Ariba experience a successful one.
+> Facilitation and action planning with cross-functional team members
+> Constantly learn and support on time inline with SLA
+
+ 
+
+ 
+
+ 
+

@@ -12,7 +12,7 @@ import glob
 from django.core.files.storage import FileSystemStorage
 from django.core.files.storage import default_storage
 from django.contrib.auth.tokens import default_token_generator
-import chardet
+
 from .models import *
 import os
 import csv

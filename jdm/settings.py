@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-=0+(7j_t%b$b#vs1=ri$$21(i2b28h9fgnh6yu-@uiz)25@1^#
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['dhalamma.pythonanywhere.com']
 UPLOAD_FOLDER = os.path.join(BASE_DIR, 'uploads')
 JD_FOLDER = os.path.join(BASE_DIR, 'jd')
 
